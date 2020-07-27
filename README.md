@@ -1,0 +1,2 @@
+# JHCronometer
+Cronómetro para windows
