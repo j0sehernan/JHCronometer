@@ -1,0 +1,11 @@
+D:\WFORM\Cronometer\Cronometer\bin\Release\Cronometer.exe.config
+D:\WFORM\Cronometer\Cronometer\bin\Release\Cronometer.exe
+D:\WFORM\Cronometer\Cronometer\bin\Release\Cronometer.pdb
+D:\WFORM\Cronometer\Cronometer\obj\Release\Cronometer.csprojAssemblyReference.cache
+D:\WFORM\Cronometer\Cronometer\obj\Release\Cronometer.JHCronometer.resources
+D:\WFORM\Cronometer\Cronometer\obj\Release\Cronometer.RemainingTime.resources
+D:\WFORM\Cronometer\Cronometer\obj\Release\Cronometer.Properties.Resources.resources
+D:\WFORM\Cronometer\Cronometer\obj\Release\Cronometer.csproj.GenerateResource.cache
+D:\WFORM\Cronometer\Cronometer\obj\Release\Cronometer.csproj.CoreCompileInputs.cache
+D:\WFORM\Cronometer\Cronometer\obj\Release\Cronometer.exe
+D:\WFORM\Cronometer\Cronometer\obj\Release\Cronometer.pdb

@@ -1,0 +1,11 @@
+D:\WFORM\Cronometro\Cronometro\bin\Debug\Cronometro.exe.config
+D:\WFORM\Cronometro\Cronometro\bin\Debug\Cronometro.exe
+D:\WFORM\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
+D:\WFORM\Cronometro\Cronometro\obj\Debug\Cronometro.csprojAssemblyReference.cache
+D:\WFORM\Cronometro\Cronometro\obj\Debug\Cronometro.Properties.Resources.resources
+D:\WFORM\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.GenerateResource.cache
+D:\WFORM\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.CoreCompileInputs.cache
+D:\WFORM\Cronometro\Cronometro\obj\Debug\Cronometro.exe
+D:\WFORM\Cronometro\Cronometro\obj\Debug\Cronometro.pdb
+D:\WFORM\Cronometro\Cronometro\obj\Debug\Cronometro.RemainingTime.resources
+D:\WFORM\Cronometro\Cronometro\obj\Debug\Cronometro.JHCronometer.resources
